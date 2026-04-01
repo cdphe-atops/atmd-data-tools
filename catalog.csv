@@ -1,0 +1,14 @@
+dataset_id,asset,deployment,file_parts,s3_prefix
+1,CAT,2023-04-20,data_0.parquet,asset=CAT/deployment=2023-04-20/
+2,CAT,2023-04-21,data_0.parquet,asset=CAT/deployment=2023-04-21/
+3,CAT,2024-06-05,data_0.parquet,asset=CAT/deployment=2024-06-05/
+4,CAT,2024-12-18,data_0.parquet,asset=CAT/deployment=2024-12-18/
+5,MARMOT-Millie,2023-04-20,data_0.parquet,asset=MARMOT-Millie/deployment=2023-04-20/
+6,MARMOT-Millie,2023-04-21,data_0.parquet,asset=MARMOT-Millie/deployment=2023-04-21/
+7,MARMOT-Millie,2024-06-05,data_0.parquet,asset=MARMOT-Millie/deployment=2024-06-05/
+8,MARMOT-Millie,2025-01-08,data_0.parquet,asset=MARMOT-Millie/deployment=2025-01-08/
+9,MARMOT-Millie,2025-01-14,data_0.parquet,asset=MARMOT-Millie/deployment=2025-01-14/
+10,MARMOT-Millie,2025-01-20,data_0.parquet,asset=MARMOT-Millie/deployment=2025-01-20/
+11,MARMOT-Millie,2025-01-23,data_0.parquet,asset=MARMOT-Millie/deployment=2025-01-23/
+12,MARMOT-Millie,2025-01-26,data_0.parquet,asset=MARMOT-Millie/deployment=2025-01-26/
+13,MARMOT-Millie,2025-02-01,data_0.parquet,asset=MARMOT-Millie/deployment=2025-02-01/
