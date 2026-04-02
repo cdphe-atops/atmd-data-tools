@@ -4,6 +4,8 @@
 
 This repository provides tools and examples for accessing Colorado's Air Toxics Monitoring Data via a serverless public data lake. This project serves to demonstrate how researchers, citizens, and partner agencies can query high-resolution air quality data without managing complex infrastructure.
 
+[![View Interactive Notebook](https://img.shields.io/badge/View_Interactive-Notebook-blue?logo=jupyter)](https://nbviewer.org/github/cdphe-atops/atmd-data-tools/blob/main/notebooks/01_getting_started.ipynb)
+
 ---
 
 ## 📂 Repository Structure
