@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Conceptual Draft:** This repository is intended to illustrate upcoming data access patterns for our public S3 bucket.
+
 # atmd-data-tools
 
 ## CDPHE Air Toxics Public Data Lake
